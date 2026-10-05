@@ -1,5 +1,9 @@
 # Elevatron
 
+**Project page:** https://andresblitz.com/projects/elevatron/
+
+**Author:** [Andrés Blitz](https://andresblitz.com/) · [@andresblitz](https://x.com/andresblitz)
+
 **A graduate-level concept study of a magnetically-pinched, laser-coupled beam as a dual-purpose structure and conductor for assisted access to space.**
 
 > **Status:** Speculative concept synthesis + reproducible benchtop demonstrations of the underlying physics.
